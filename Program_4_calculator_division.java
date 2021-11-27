@@ -9,7 +9,7 @@ public class Program_4_calculator_division {
         System.out.println("Enter the second number");
         Scanner num2 = new Scanner(System.in);
         int writenum2 = num2.nextInt();
-        int ans = writenum1*writenum2;
+        int ans = writenum1/writenum2;
         System.out.println("Your answer is "+ans);
         
     }
