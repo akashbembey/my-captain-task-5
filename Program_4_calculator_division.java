@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Program_4_calculator_division {
     public static void main(String[] args){
-        System.out.println("Substraction");
+        System.out.println("Division");
         System.out.println("Enter the first number");
         Scanner num1 = new Scanner(System.in);
         int writenum1 = num1.nextInt();
